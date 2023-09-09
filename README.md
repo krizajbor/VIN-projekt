@@ -4,10 +4,9 @@ Za projekt sem se odločil izdelati senzor za očitovanje razdalje, ki jo predst
 ## Prikaz uporabe naprave (Povezava do videa)
 [![Prikaz delovanja](https://i9.ytimg.com/vi/Pnv7otx1rwE/mqdefault.jpg?sqp=COT78acG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgWyhHMA8=&rs=AOn4CLBov41m-zj_S3MJ0yI0B5sooQ9cmw)](https://youtu.be/Pnv7otx1rwE)
 ## Izvedba
-![Arduino nano od blizu](https://github.com/krizajbor/VIN-projekt/blob/52024f89cc526e26d13502dca081d98feecf76fb/Assets/1694269997868.jpg)
-
 <img src="https://github.com/krizajbor/VIN-projekt/blob/52024f89cc526e26d13502dca081d98feecf76fb/Assets/1694269997924.jpg" width=75% height=75%>
 
+<img src="https://github.com/krizajbor/VIN-projekt/blob/52024f89cc526e26d13502dca081d98feecf76fb/Assets/1694269997868.jpg" width=75% height=75%>
 
 ## Komponenti
 | Komponent | Število |
