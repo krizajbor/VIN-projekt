@@ -15,7 +15,7 @@ Za projekt sem se odločil izdelati senzor za očitovanje razdalje, ki jo predst
 
 ## Opis komponent
 > # Arduino Nano
-> <img src="https://github.com/krizajbor/VIN-Projekt/assets/71345003/d4d6d820-9a51-410d-a3ce-6d286a71a8e7" width=75% height=75%>
+> <img src="https://github.com/krizajbor/VIN-Projekt/Assets/Arduino nano.jpg" width=75% height=75%>
 > 
 > Arduino NANO je mikrokrmilnik, ki temelji na mikrokontrolerju Atmel AVR – ATmega328. Ima 14 digitalnih vhodno-izhodnih povezav, 8 analognih vhodov, kot tudi USB priključek za povezavo s računalnikom in napajanje.
 
