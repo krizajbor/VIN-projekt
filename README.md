@@ -31,4 +31,6 @@ Za projekt sem se odločil izdelati senzor za očitovanje razdalje, ki jo predst
 > Ultrazvočni senzor ima oddajnik za oddajanje ultrazvočnih valov in sprejemnik za sprejem ultrazvočnih valov. Preneseni ultrazvočni val potuje po zraku in se odbije ob udarcu v predmet. Arduino izračuna čas, ki ga potrebuje ultrazvočni pulzni val, da od pošiljatelja doseže sprejemnik
 
 > # LED diode
+> <img src="https://github.com/krizajbor/VIN-projekt/blob/c0dfe17897c095c3b9ee85f8efa88286c8770561/Assets/LED.jpg" width=75% height=75%>
+> 
 > LED diode so majhni polprevodniški elementi, ki oddajajo svetlobo. Pomembne so zaradi svoje energetske učinkovitosti, dolge življenjske dobe, majhnih dimenzij in sposobnosti izbire različnih barv svetlobe.
