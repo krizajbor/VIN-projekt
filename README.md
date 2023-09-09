@@ -20,7 +20,7 @@ Za projekt sem se odločil izdelati senzor za očitovanje razdalje, ki jo predst
 > Arduino NANO je mikrokrmilnik, ki temelji na mikrokontrolerju Atmel AVR – ATmega328. Ima 14 digitalnih vhodno-izhodnih povezav, 8 analognih vhodov, kot tudi USB priključek za povezavo s računalnikom in napajanje.
 
 > # Ultrasonic senzor
-> ![image](https://github.com/krizajbor/VIN-Projekt/assets/71345003/816dd8a9-eac0-429a-960a-5836ec17cc53)
+> ![image](https://github.com/krizajbor/VIN-projekt/blob/1a0620b29c84d099108673f91a8ef2faf5dbf74f/Assets/US.png)
 >
 > Ultrazvočni senzor ima oddajnik za oddajanje ultrazvočnih valov in sprejemnik za sprejem ultrazvočnih valov. Preneseni ultrazvočni val potuje po zraku in se odbije ob udarcu v predmet. Arduino izračuna čas, ki ga potrebuje ultrazvočni pulzni val, da od pošiljatelja doseže sprejemnik
 
