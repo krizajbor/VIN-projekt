@@ -7,6 +7,8 @@ Za projekt sem se odločil izdelati senzor za očitovanje razdalje, ki jo predst
 ![Arduino nano od blizu](https://github.com/krizajbor/VIN-projekt/blob/52024f89cc526e26d13502dca081d98feecf76fb/Assets/1694269997868.jpg)
 
 <img src="https://github.com/krizajbor/VIN-projekt/blob/52024f89cc526e26d13502dca081d98feecf76fb/Assets/1694269997924.jpg" width=75% height=75%>
+
+
 ## Komponenti
 | Komponent | Število |
 | ------ | ------- |
